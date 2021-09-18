@@ -11515,3 +11515,7 @@ html {
   background-size: auto;
   background-attachment: fixed;
 }
+
+.gallery {
+  padding-top: 116px;
+}
